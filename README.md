@@ -6,5 +6,5 @@ codex
 hh
 hg
 g
-g
+gg
 g
